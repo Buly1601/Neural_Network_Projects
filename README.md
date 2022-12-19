@@ -3,3 +3,4 @@ This folder contains all of my Deep Learning projects using Tensorflow and Pytho
 
 - Pizza_or_steak
 - Clothing_recognition
+- Abstract_divider
